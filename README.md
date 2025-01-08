@@ -4,17 +4,7 @@ This project involves predicting the quality of red wine based on its physicoche
 # 📊 Dataset
 The dataset contains 1599 samples with the following features:
 
-Fixed Acidity
-Volatile Acidity
-Citric Acid
-Residual Sugar
-Chlorides
-Free Sulfur Dioxide
-Total Sulfur Dioxide
-Density
-pH
-Sulphates
-Alcohol
+Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides, Free Sulfur Dioxide, Total Sulfur Dioxide, Density, pH, Sulphates, Alcohol, 
 Quality (Target variable: Integer between 3 and 8)
 
 # 📦 Tech Stack
